@@ -1,4 +1,5 @@
 -- Big project for SQL
+-- Link sample: https://console.cloud.google.com/bigquery?project=ecommerce-349412&ws=!1m5!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801
 -- Link instruction: https://docs.google.com/spreadsheets/d/1WnBJsZXj_4FDi2DyfLH1jkWtfTridO2icWbWCh7PLs8/edit#gid=0
 
 
